@@ -59,7 +59,7 @@ func main() {
 			}
 		}
 
-		u.RawQuery = qs.Encode()
+		
 
 		fmt.Printf("%s\n", u)
 
